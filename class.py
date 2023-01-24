@@ -11,7 +11,14 @@ class car:
 x = car("Supra" , 280 , 75)        
 y = car("lambo" , 300 , 12)
 
-print()
+print(x.name)
+print(y.name)
+
+print(x.speed)
+print(y.speed)
+
+print(x.cost)
+print(y.cost)
 
 
     
